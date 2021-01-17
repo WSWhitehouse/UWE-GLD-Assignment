@@ -13,7 +13,7 @@ The Level Design Document (LDD) and the Debriefing Document files can be found i
 The final build can be found in the root of this repository named `GLD-Assignment-Final-Build.zip`. The files inside the `.zip` must be extracted in order for the application to work.
 
 ## Playthrough Video
-The playthrough video is on YouTube: (https://youtu.be/0FC36vhzpQ0)[https://youtu.be/0FC36vhzpQ0]
+The playthrough video is on YouTube: [https://youtu.be/0FC36vhzpQ0](https://youtu.be/0FC36vhzpQ0)
 
 ## Blender Files
 Blender files that have some meshes from the level are found in the `Blender` folder.
